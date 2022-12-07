@@ -36,7 +36,7 @@ Issue types mogą byc tworzenone na życzenie użytowników JIRY - np Improvemen
 
 Sub-Task - zadanie podrzędne - w JIRZE jest to zgłoszenie które przynależy do innego Issue. jest automatycznie z nim połączone i zamknięcie go może być wymagane przed zamknięciem głównego zgłoszenia.
 
-Branch - gałąż - często osobna instancja na której pracuje pojedynczy developer tworząc włąsny komponent lub własne linie kodu. 
+Branch - gałąź - często osobna instancja na której pracuje pojedynczy developer tworząc włąsny komponent lub własne linie kodu. 
 Nastepnie po przetestowaniu nastepuje merge z Master
 
 Pull request - w Git Hub wymuszenie scalenia dokuentów z jednego brancha na inny
@@ -56,6 +56,7 @@ Uwaga jest tośrodowisko na którym odbywają sie prawdziwe działania i operacj
 Legacy system - starszy system stworzony starą metodą, przestarzałą technologią, systemem komputerowym lub programem użytkowym „odnoszącym się do poprzedniego systemu komputerowego lub będącym jego wcześniejszym lub nieaktualnym systemem”,
 ale nadal jest w użyciu.
 
-Warto znać
+Warto znać:
 Blog guru99
 https://www.guru99.com/software-testing-introduction-importance.html
+Wydawnictwo Helion i Kursy dla Testerów od Paweł Rachwał
